@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom style tambahan */
+html {
+  scroll-behavior: smooth; /* biar smooth waktu klik menu */
+}
